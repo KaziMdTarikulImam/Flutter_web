@@ -4,4 +4,5 @@ A new Flutter project.
 
 '''
 flutter run -d web-server
+flutter build web
 '''
